@@ -167,7 +167,7 @@ header a {
 }
 .example-ord__image {
     border-radius: 1.5rem;
-    background-image: url("./img/1.webp");
+    background-image: url("../img/1.webp");
     background-position: center;
     height: 500px;
     width: 500px;
